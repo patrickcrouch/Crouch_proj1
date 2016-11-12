@@ -202,7 +202,7 @@ void display()
 	glEnableVertexAttribArray(vPos);
 	// Final step of actually drawing the triangle
 	glDrawArrays(GL_TRIANGLES, 0, 3);
-	// (11/12/2016 12:15p comment to create a change in github)
+	// (11/12/2016 12:15p comment to create a change in github) more garbage
 
 	// change translation matrix to move cube to different location
 	translateMatrix = translate(mat4(1.0f), vec3(-0.5f, -0.75f, 0.0f));
