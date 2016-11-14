@@ -1,7 +1,7 @@
 # Crouch_proj1
-CSC 4820 Interactive Computer Graphics; Fall 2016, Georgia State University, OpenGL Project 1
+OpenGL Project 1
 
-This is a class project for the listing above.<br>
+This is a class project.<br>
 
 Please be advised:<br>
 1.  As a student project, this code is GUARANTEED to contain errors, ommissions, and bad practices.<br>
